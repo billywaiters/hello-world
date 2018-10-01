@@ -1,2 +1,2 @@
 # hello-world
-Learning 
+Learning can be fun
